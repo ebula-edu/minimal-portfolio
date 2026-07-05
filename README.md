@@ -1,2 +1,2 @@
-# minimal-portfolio
-Seeded from ClassHost minimal portfolio template.
+# Minimal Portfolio
+A simple portfolio starter. Edit `index.html` to customize your projects!
